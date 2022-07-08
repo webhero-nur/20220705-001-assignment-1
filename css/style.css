@@ -59,8 +59,8 @@ p {
 }
 
 #my-mission-in-2022 {
-    width: 80%;
-    margin: 0 10%;
+    width: 90%;
+    margin: 0 5% 100px;
 }
 
 #flexbox-card {
@@ -102,4 +102,41 @@ p {
 
 .card-title {
     font-size: 25px;
+}
+
+#develop-without-limits {
+    width: 90%;
+    margin: 0 5% 100px;
+    display: flex;
+}
+
+#develop-without-limits h2 {
+    font-size: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.img-with-acknowledgement {
+    display: block;
+    width: 95%;
+    margin: auto;
+}
+
+.two-fifth-width {
+    width: 36%;
+    margin: 0 2%;
+}
+
+.three-fifth-width {
+    width: 56%;
+    margin: 0 2%;
+}
+
+#develop-instruction {
+    padding-top: 100px;
+    padding-left: 50px;
+}
+
+#develop-instruction p {
+    margin: 50px 0;
 }
