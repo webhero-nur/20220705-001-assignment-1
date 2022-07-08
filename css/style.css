@@ -1,0 +1,56 @@
+body {
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#header-part {
+    width: 90%;
+    margin: 50px 5% 0;
+    margin-bottom: 100px;
+    display: flex;
+}
+
+#header-text {
+    padding: 0px 5%;
+    margin-top: 150px;
+}
+
+#header-title {
+    border-left: 5px solid orangered;
+    padding-left: 10px;
+}
+
+#header-title h1 {
+    font-size: 75px;
+    margin: 0;
+    padding: 0;
+}
+
+.tomato-color {
+    color: tomato;
+}
+
+.header-paragraph {
+    margin: 30px 0;
+}
+
+.half-width {
+    width: 50%;
+    border: 1px dotted cyan;
+}
+
+.button-design {
+    text-decoration: none;
+    margin-top: 15px;
+    padding: 15px 50px;
+    background-color: orangered;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+img {
+    display: block;
+    width: 95%;
+    margin: auto;
+}
