@@ -137,6 +137,10 @@ p {
     padding-left: 50px;
 }
 
+.develop-text {
+    font-weight: bold;
+}
+
 #develop-instruction p {
     margin: 50px 0;
 }
