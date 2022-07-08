@@ -3,6 +3,10 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+p {
+    text-align: justify;
+}
+
 #header-part {
     width: 90%;
     margin: 50px 5% 0;
@@ -36,7 +40,6 @@ body {
 
 .half-width {
     width: 50%;
-    border: 1px dotted cyan;
 }
 
 .button-design {
@@ -49,8 +52,54 @@ body {
     font-weight: bold;
 }
 
-img {
+#header-img {
     display: block;
     width: 95%;
     margin: auto;
+}
+
+#my-mission-in-2022 {
+    width: 80%;
+    margin: 0 10%;
+}
+
+#flexbox-card {
+    display: flex;
+}
+
+#my-mission-title {
+    font-weight: 900;
+    font-size: 55px;
+    text-align: center;
+}
+
+#darkblue-color {
+    color: darkblue;
+}
+
+#mission-card {
+    background-color: #ecf5ff;
+}
+
+#vission-card {
+    background-color: #f8eaec;
+}
+
+#goals-card {
+    background-color: #fafae0;
+}
+
+.one-third-width {
+    width: 30%;
+    margin: 1.5%;
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.card-img-width {
+    width: 35%;
+}
+
+.card-title {
+    font-size: 25px;
 }
