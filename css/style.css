@@ -73,7 +73,7 @@ p {
     text-align: center;
 }
 
-#darkblue-color {
+.darkblue-color {
     color: darkblue;
 }
 
@@ -165,4 +165,22 @@ footer {
 
 footer h3 {
     font-size: 35px;
+}
+
+#android-project {
+    width: 90%;
+    margin: 0 5% 100px;
+}
+
+#android-project h2 {
+    font-size: 40px;
+    text-align: center;
+}
+
+#project-img-part {
+    display: flex;
+}
+
+.img-shadow {
+    box-shadow: 20px 20px 50px lightgray;
 }
