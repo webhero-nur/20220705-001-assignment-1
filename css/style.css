@@ -160,7 +160,7 @@ p {
 footer {
     text-align: center;
     background-color: black;
-    padding: 30px 0;
+    padding: 20px 0;
 }
 
 footer h3 {
@@ -179,6 +179,14 @@ footer h3 {
 
 #project-img-part {
     display: flex;
+    margin: 35px 0;
+}
+
+.one-fourth-width {
+    width: 20%;
+    margin: 6.5%;
+    padding: 15px;
+    border-radius: 15px;
 }
 
 .img-shadow {
